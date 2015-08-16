@@ -5,6 +5,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * Created by Nicolas Telera on 15/08/2015.
+ */
 public abstract class MusicStudioActivity extends AppCompatActivity {
 
     @Override

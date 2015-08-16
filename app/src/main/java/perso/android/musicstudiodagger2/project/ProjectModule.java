@@ -4,7 +4,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by nicolas on 15/08/2015.
+ * Created by Nicolas Telera on 15/08/2015.
  */
 @Module
 class ProjectModule {

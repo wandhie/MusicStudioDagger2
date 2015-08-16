@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:weightSum="5"
+    android:background="@android:color/holo_blue_dark">
+
+    <!-- Commands -->
+
+    <LinearLayout
+        android:id="@+id/fragment_block_commands"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="@drawable/custom_block_commands">
+
+        <Button
+            android:id="@+id/track_button_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/track_button_delete"/>
+
+    </LinearLayout>
+
+    <!-- Sounds -->
+
+    <LinearLayout
+        android:id="@+id/fragment_block_sounds"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:orientation="horizontal"
+        android:background="@drawable/custom_block_sounds">
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -5,7 +5,7 @@ import perso.android.musicstudiodagger2.ActivityScope;
 import perso.android.musicstudiodagger2.MusicStudioComponent;
 
 /**
- * Created by nicolas on 15/08/2015.
+ * Created by Nicolas Telera on 15/08/2015.
  */
 @ActivityScope
 @Component(

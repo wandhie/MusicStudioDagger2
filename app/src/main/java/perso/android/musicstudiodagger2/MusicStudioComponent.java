@@ -6,9 +6,10 @@ import javax.inject.Singleton;
 
 import dagger.Component;
 import perso.android.musicstudiodagger2.project.ProjectActivity;
+import perso.android.musicstudiodagger2.project.track.TrackFragment;
 
 /**
- * Created by nicolas on 15/08/2015.
+ * Created by Nicolas Telera on 15/08/2015.
  */
 @Singleton
 @Component(

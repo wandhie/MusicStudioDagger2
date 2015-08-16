@@ -1,6 +1,15 @@
 <resources>
+
+    <!-- Application -->
     <string name="app_name">MusicStudioDagger2</string>
 
-    <string name="hello_world">Hello world!</string>
+    <!-- Menu -->
+    <string name="action_add_track">Add Track</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Project -->
+
+    <!-- Track -->
+    <string name="track_button_delete">DELETE</string>
+
 </resources>

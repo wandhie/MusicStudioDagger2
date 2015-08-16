@@ -3,7 +3,7 @@ package perso.android.musicstudiodagger2.project;
 import javax.inject.Inject;
 
 /**
- * Created by nicolas on 15/08/2015.
+ * Created by Nicolas Telera on 15/08/2015.
  */
 public class ProjectPresenter {
 
